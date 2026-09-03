@@ -203,9 +203,9 @@ Building and managing:
 
 | Matchup          | Pick   |
 | ---------------- | ------ |
+|Arkansas-Pine Bluff at Missouri (25) | Missouri |
+|Idaho at Utah (21) | Utah |
 | San Jose State at Eastern Michigan | Eastern Michigan |
-
-
 | UTEP at Oklahoma (10)| Oklahoma |
 | Miami at Stanford (7)| Stanford |
 | Fresno State at USC (14)| USC |
@@ -219,6 +219,7 @@ Building and managing:
 | Marshall at Penn State (18)| Penn State |
 | Furman at Tennessee (20)| Tennessee |
 | Baylor at Auburn | Auburn |
+| Northern Illinois at Iowa (22) | Iowa |
 | Missouri State at Texas A&M (8)| Texas A&M |
 | Abilene Christian at Texas Tech (12)| Texas Tech |
 | SE Louisiana at South Alabama | South Alabama |
