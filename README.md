@@ -195,11 +195,11 @@ Building and managing:
 | -------- | -------- |
 | Overall  | **6-2**  |
 | Accuracy | **75.0%** |
-| Week     | **1**    |
+| Week     | **0**    |
 
 ---
 
-## Week 2 Predictions (top 25 and Personal Favorites as well)
+## Week 1 Predictions (top 25 and Personal Favorites as well)
 
 | Matchup          | Pick   |
 | ---------------- | ------ |
