@@ -189,39 +189,46 @@ Building and managing:
 
 # 🏈 College Football Prediction Tracker
 
-## Season Record
+## Season Record (All Games)
 
 | Metric   | Record   |
 | -------- | -------- |
-| Overall  | **0-0**  |
-| Accuracy | **0.0%** |
-| Week     | **0**    |
+| Overall  | **6-2**  |
+| Accuracy | **75.0%** |
+| Week     | **1**    |
 
 ---
 
-## Week X Predictions
+## Week 2 Predictions (top 25 and Personal Favorites as well)
 
-| Matchup          | Pick   | Confidence |
-| ---------------- | ------ | ---------- |
-| Team A vs Team B | Team A | ★★★★☆      |
-| Team C vs Team D | Team D | ★★★☆☆      |
-| Team E vs Team F | Team E | ★★★★★      |
-| Team G vs Team H | Team H | ★★★☆☆      |
+| Matchup          | Pick   |
+| ---------------- | ------ |
+| San Jose State at Eastern Michigan | Eastern Michigan |
 
----
 
-### Prediction Legend
-
-★★★★★ = Very High Confidence
-
-★★★★☆ = High Confidence
-
-★★★☆☆ = Moderate Confidence
-
-★★☆☆☆ = Low Confidence
-
-★☆☆☆☆ = Pure Chaos
-
+| UTEP at Oklahoma (10)| Oklahoma |
+| Miami at Stanford (7)| Stanford |
+| Fresno State at USC (14)| USC |
+| North Texas at Indiana (6)| Indiana |
+| East Carolina at Alabama (13)| Alabama |
+| Oregon State at Houston (23)| Houston |
+| Ball State at Ohio State (1)| Ohio State |
+| Tennessee State at Georgia (3)| Georgia |
+| Boise State at Oregon (2)| Oregon |
+| Texas State at Texas (5)| Texas |
+| Marshall at Penn State (18)| Penn State |
+| Furman at Tennessee (20)| Tennessee |
+| Baylor at Auburn | Auburn |
+| Missouri State at Texas A&M (8)| Texas A&M |
+| Abilene Christian at Texas Tech (12)| Texas Tech |
+| SE Louisiana at South Alabama | South Alabama |
+| Clemson at LSU (11)| LSU |
+| Western Michigan at Michigan (16)| Michigan |
+| Utah Tech at BYU (14)| BYU |
+| Washington State at Washington (17)| Washington |
+| Wisconsin at Notre Dame (4)| Notre Dame |
+| Louisville (24) at Ole Miss (9)| Ole Miss |
+| SMU (19) at Florida State | SMU |
 ---
 
 # 📈 Development Focus
