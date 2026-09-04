@@ -207,7 +207,7 @@ Building and managing:
 |Idaho at Utah (21) | Utah |
 | San Jose State at Eastern Michigan | Eastern Michigan |
 | UTEP at Oklahoma (10)| Oklahoma |
-| Miami at Stanford (7)| Stanford |
+| Miami (7) at Stanford | Stanford |
 | Fresno State at USC (14)| USC |
 | North Texas at Indiana (6)| Indiana |
 | East Carolina at Alabama (13)| Alabama |
