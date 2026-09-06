@@ -193,9 +193,9 @@ Building and managing:
 
 | Metric   | Record   |
 | -------- | -------- |
-| Overall  | **6-2**  |
-| Accuracy | **75.0%** |
-| Week     | **0**    |
+| Overall  | **79-14**  |
+| Accuracy | **85.0%** |
+| Week     | **1**    |
 
 ---
 
