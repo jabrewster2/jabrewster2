@@ -203,33 +203,30 @@ Building and managing:
 
 | Matchup          | Pick   |
 | ---------------- | ------ |
-|Arkansas-Pine Bluff at Missouri (25) | Missouri |
-|Idaho at Utah (21) | Utah |
-| San Jose State at Eastern Michigan | Eastern Michigan |
-| UTEP at Oklahoma (10)| Oklahoma |
-| Miami (7) at Stanford | Stanford |
-| Fresno State at USC (14)| USC |
-| North Texas at Indiana (6)| Indiana |
-| East Carolina at Alabama (13)| Alabama |
-| Oregon State at Houston (23)| Houston |
-| Ball State at Ohio State (1)| Ohio State |
-| Tennessee State at Georgia (3)| Georgia |
-| Boise State at Oregon (2)| Oregon |
-| Texas State at Texas (5)| Texas |
-| Marshall at Penn State (18)| Penn State |
-| Furman at Tennessee (20)| Tennessee |
-| Baylor at Auburn | Auburn |
-| Northern Illinois at Iowa (22) | Iowa |
-| Missouri State at Texas A&M (8)| Texas A&M |
-| Abilene Christian at Texas Tech (12)| Texas Tech |
-| SE Louisiana at South Alabama | South Alabama |
-| Clemson at LSU (11)| LSU |
-| Western Michigan at Michigan (16)| Michigan |
-| Utah Tech at BYU (14)| BYU |
-| Washington State at Washington (17)| Washington |
-| Wisconsin at Notre Dame (4)| Notre Dame |
-| Louisville (24) at Ole Miss (9)| Ole Miss |
-| SMU (19) at Florida State | SMU |
+| Florida A&M at Miami (7) | Miami |
+| Villanova at Louisville (24) | Louisville |
+| Norfolk State at Virginia (25) | Virginia |
+| Missouri (23) at Kansas | Missouri |
+| Howard at Indiana (5) | Indiana |
+| Oregon (6) at Oklahoma State | Oregon |
+| Arizona State at Texas A&M (10) | Texas A&M |
+| Oklahoma (11) at Michigan | Oklahoma |
+| Penn State (16) at Temple | Penn State |
+| Western Kentucky at Georgia (2) | Georgia |
+| Rice at Notre Dame (3) | Notre Dame |
+| Arizona at BYU (15) | BYU |
+| Utah State at Washington (19) | Washington |
+| UC Davis at SMU (17) | SMU |
+| Southern at Houston (22) | Houston |
+| South Alabama at Tulane | Tulane |
+| Ohio State (1) at Texas (4) | Ohio State |
+| Louisiana Tech at LSU (8) | LSU |
+| Texas Tech (13) at Oregon State | Texas Tech |
+| Iowa State at Iowa (21) | Iowa |
+| Charlotte at Ole Miss (9) | Ole Miss |
+| Southern Miss at Auburn | Auburn |
+| Arkansas at Utah (20) | Utah |
+| Louisiana at USC (14) | USC |
 ---
 
 # 📈 Development Focus
