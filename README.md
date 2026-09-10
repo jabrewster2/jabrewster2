@@ -199,7 +199,7 @@ Building and managing:
 
 ---
 
-## Week 1 Predictions (top 25 and Personal Favorites as well)
+## Week 2 Predictions (top 25 and Personal Favorites as well)
 
 | Matchup          | Pick   |
 | ---------------- | ------ |
