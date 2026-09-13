@@ -193,9 +193,9 @@ Building and managing:
 
 | Metric   | Record   |
 | -------- | -------- |
-| Overall  | **83-14**  |
-| Accuracy | **85.5%** |
-| Week     | **1**    |
+| Overall  | **169-32**  |
+| Accuracy | **84.1%** |
+| Week     | **1-2**    |
 
 ---
 
@@ -227,6 +227,7 @@ Building and managing:
 | Southern Miss at Auburn | Auburn |
 | Arkansas at Utah (20) | Utah |
 | Louisiana at USC (14) | USC |
+This is made for fun and I do not claim that these predictions are fact. This was not made for gambling and I do not condone gambling.
 ---
 
 # 📈 Development Focus
