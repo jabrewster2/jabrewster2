@@ -199,34 +199,35 @@ Building and managing:
 
 ---
 
-## Week 2 Predictions (top 25 and Personal Favorites as well)
+## Week 3 Predictions (top 25 and Personal Favorites as well)
 
 | Matchup          | Pick   |
 | ---------------- | ------ |
-| Florida A&M at Miami (7) | Miami |
-| Villanova at Louisville (24) | Louisville |
-| Norfolk State at Virginia (25) | Virginia |
-| Missouri (23) at Kansas | Missouri |
-| Howard at Indiana (5) | Indiana |
-| Oregon (6) at Oklahoma State | Oregon |
-| Arizona State at Texas A&M (10) | Texas A&M |
-| Oklahoma (11) at Michigan | Oklahoma |
-| Penn State (16) at Temple | Penn State |
-| Western Kentucky at Georgia (2) | Georgia |
-| Rice at Notre Dame (3) | Notre Dame |
-| Arizona at BYU (15) | BYU |
-| Utah State at Washington (19) | Washington |
-| UC Davis at SMU (17) | SMU |
-| Southern at Houston (22) | Houston |
-| South Alabama at Tulane | Tulane |
-| Ohio State (1) at Texas (4) | Ohio State |
-| Louisiana Tech at LSU (8) | LSU |
-| Texas Tech (13) at Oregon State | Texas Tech |
-| Iowa State at Iowa (21) | Iowa |
-| Charlotte at Ole Miss (9) | Ole Miss |
-| Southern Miss at Auburn | Auburn |
-| Arkansas at Utah (20) | Utah |
-| Louisiana at USC (14) | USC |
+| Miami (5) at Wake Forest | Miami |
+| Houston (22) at Texas Tech (13) | Texas Tech |
+| Portland State at Oregon (21) | Oregon |
+| Georgia (2) at Arkansas | Georgia |
+| Kent State at Ohio State (6) | Ohio State |
+| Buffalo at Penn State (14) | Penn State |
+| Kentucky at Texas A&M (9) | Texas A&M |
+| Florida State at Alabama (10) | Alabama |
+| USC at Rutgers (12) | USC |
+| SMU (16) at Louisville (23) | SMU |
+| Utah State at Utah (17) | Utah |
+| UTEP at Michigan (19) | Michigan |
+| Western Kentucky at Indiana (4) | Indiana |
+| Northern Iowa at Iowa (18) | Iowa |
+| Troy at Missouri (20) | Missouri |
+| Florida at Auburn | Auburn |
+| Ohio at South Alabama | Ohio |
+| Michigan State at Notre Dame (3) | Notre Dame |
+| LSU (7) at Ole Miss (8) | Ole Miss |
+| BYU (11) at Colorado State | BYU |
+| New Mexico at Oklahoma (24) | Oklahoma |
+| West Virginia at Virginia (25) | Virginia |
+| Kennesaw State at Tennessee (15) | Tennessee |
+| UTSA at Texas (1) | Texas |
+
 This is made for fun and I do not claim that these predictions are fact. This was not made for gambling and I do not condone gambling.
 ---
 
