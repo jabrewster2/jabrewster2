@@ -195,7 +195,7 @@ Building and managing:
 | -------- | -------- |
 | Overall  | **228-48**  |
 | Accuracy | **82.6%** |
-| Week     | **1-3**    |
+| Weeks     | **1-3**    |
 
 ---
 
@@ -203,31 +203,26 @@ Building and managing:
 
 | Matchup          | Pick   |
 | ---------------- | ------ |
-| Miami (5) at Wake Forest | Miami |
-| Houston (22) at Texas Tech (13) | Texas Tech |
-| Portland State at Oregon (21) | Oregon |
-| Georgia (2) at Arkansas | Georgia |
-| Kent State at Ohio State (6) | Ohio State |
-| Buffalo at Penn State (14) | Penn State |
-| Kentucky at Texas A&M (9) | Texas A&M |
-| Florida State at Alabama (10) | Alabama |
-| USC at Rutgers (12) | USC |
-| SMU (16) at Louisville (23) | SMU |
-| Utah State at Utah (17) | Utah |
-| UTEP at Michigan (19) | Michigan |
-| Western Kentucky at Indiana (4) | Indiana |
-| Northern Iowa at Iowa (18) | Iowa |
-| Troy at Missouri (20) | Missouri |
-| Florida at Auburn | Auburn |
-| Ohio at South Alabama | Ohio |
-| Michigan State at Notre Dame (3) | Notre Dame |
-| LSU (7) at Ole Miss (8) | Ole Miss |
-| BYU (11) at Colorado State | BYU |
-| New Mexico at Oklahoma (24) | Oklahoma |
-| West Virginia at Virginia (25) | Virginia |
-| Kennesaw State at Tennessee (15) | Tennessee |
-| UTSA at Texas (1) | Texas |
-
+| Northwestern at Indiana (5) | Indiana |
+| Texas (1) at Tennessee (14) | Texas |
+| Illinois at Ohio State (7) | Ohio State |
+| Sam Houston at Texas Tech (11) | Texas Tech |
+| Wake Forest at Louisville (16) | Louisville |
+| South Alabama at Kentucky | Kentucky |
+| Notre Dame (3) at Purdue | Notre Dame |
+| Oklahoma at Georgia (2) | Georgia |
+| Ole Miss (4) at Florida (21) | Ole Miss |
+| Utah (15) at Iowa State | Utah |
+| Iowa (17) at Michigan (18) | Michigan |
+| Houston (25) at Georgia Southern | Houston |
+| Vanderbilt at Auburn | Vanderbilt |
+| Wisconsin at Penn State (13) | Penn State |
+| Central Michigan at Miami (6) | Miami |
+| South Carolina at Alabama (8) | Alabama |
+| Texas A&M (23) at LSU (10) | LSU |
+| Oregon (20) at USC (12) | USC |
+| Missouri (19) at Mississippi State (24) | Missouri |
+| Missouri State at SMU (22) | SMU |
 This is made for fun and I do not claim that these predictions are fact. This was not made for gambling and I do not condone gambling.
 ---
 
