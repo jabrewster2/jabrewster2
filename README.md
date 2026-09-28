@@ -193,9 +193,9 @@ Building and managing:
 
 | Metric   | Record   |
 | -------- | -------- |
-| Overall  | **228-48**  |
-| Accuracy | **82.6%** |
-| Weeks     | **1-3**    |
+| Overall  | **279-65**  |
+| Accuracy | **81.1%** |
+| Weeks     | **1-4**    |
 
 ---
 
@@ -203,26 +203,24 @@ Building and managing:
 
 | Matchup          | Pick   |
 | ---------------- | ------ |
-| Northwestern at Indiana (5) | Indiana |
-| Texas (1) at Tennessee (14) | Texas |
-| Illinois at Ohio State (7) | Ohio State |
-| Sam Houston at Texas Tech (11) | Texas Tech |
-| Wake Forest at Louisville (16) | Louisville |
-| South Alabama at Kentucky | Kentucky |
-| Notre Dame (3) at Purdue | Notre Dame |
-| Oklahoma at Georgia (2) | Georgia |
-| Ole Miss (4) at Florida (21) | Ole Miss |
-| Utah (15) at Iowa State | Utah |
-| Iowa (17) at Michigan (18) | Michigan |
-| Houston (25) at Georgia Southern | Houston |
-| Vanderbilt at Auburn | Vanderbilt |
-| Wisconsin at Penn State (13) | Penn State |
-| Central Michigan at Miami (6) | Miami |
-| South Carolina at Alabama (8) | Alabama |
-| Texas A&M (23) at LSU (10) | LSU |
-| Oregon (20) at USC (12) | USC |
-| Missouri (19) at Mississippi State (24) | Missouri |
-| Missouri State at SMU (22) | SMU |
+| Notre Dame (3) at North Carolina         | Notre Dame         |
+| Alabama (7) at Mississippi State (16)    | Alabama            |
+| UCF at Houston (20)                      | Houston            |
+| Boston College at SMU (21)               | SMU                |
+| Vanderbilt at Georgia (2)                | Georgia            |
+| Ohio State (5) at Iowa (14)              | Ohio State         |
+| Florida (8) at Missouri (25)             | Florida            |
+| Auburn at Tennessee (17)                 | Tennessee          |
+| Kentucky (24) at South Carolina          | South Carolina     |
+| BYU (10) at TCU                          | BYU                |
+| UL Monroe at South Alabama               | South Alabama      |
+| Miami (4) at Clemson                     | Miami              |
+| Texas Tech (12) at Colorado              | Texas Tech         |
+| Washington at USC (18)                   | USC                |
+| Utah State at Boise State (22)           | Boise State        |
+| McNeese at LSU (11)                      | LSU                |
+| Indiana (6) at Rutgers                   | Indiana            |
+
 This is made for fun and I do not claim that these predictions are fact. This was not made for gambling and I do not condone gambling.
 ---
 
