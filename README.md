@@ -169,8 +169,6 @@ Building and managing:
 
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jabrewster2&show_icons=true&theme=tokyonight"/>
-
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jabrewster2&layout=compact&theme=tokyonight"/>
 
 </p>
